@@ -1,0 +1,100 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    overflow-x: hidden;
+}
+#navbar1{
+         height: 40px;
+         background-color: rgb(47, 117, 196);
+}
+#navbar2{
+         height: 300px;
+         background-color: black;
+}
+#head2{
+    margin-right: 155px;
+    color: rgb(250, 247, 247);
+    text-decoration: none;
+}
+#navbar5{
+          height:200px;
+          background-color:black;
+          color:aliceblue;
+}
+.mydiv{
+       height: 500px;
+       
+
+}
+#box1{
+    background-color: rgb(236, 217, 191);
+}
+#box2{
+    background-color: rgb(158, 208, 88);
+}
+#box3{
+    background-color: rgb(41, 74, 58);
+}
+#box4{
+    background-color: rgb(48, 242, 242);
+}
+#box5{
+    background-color: rgb(121, 45, 126);
+}
+#box6{
+    background-color: rgb(187, 40, 133);
+}
+#one{
+    height: 50px;
+    width: 110px;
+    background-color: rgb(93, 225, 251);
+    color: black;
+    border-radius: 10px;
+    font-size: medium;
+}
+#one:hover{
+           background-color: rgb(6, 189, 180);
+}
+#three{
+       height: 50px;
+       width: 70px;
+       background-color: rgb(52, 224, 221);
+       border-radius: 10px;
+}
+#three:hover{
+             background-color: rgb(5, 154, 154);
+}
+#nav1{
+    font-size:xxx-large;
+    color: aliceblue;
+}
+#nav2{
+    font-size:x-large;
+    color: rgb(250, 250, 197);
+}
+pre{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+}
+input{
+      height: 50px;
+      width: 220px;
+      border-radius: 10px ;
+}
+h3{
+    color: rgb(175, 98, 98);
+}
+#para1{
+       color: rgb(228, 139, 22);
+}
+#two{
+    color:black;
+    height:60px;
+    width:220px;
+    border-radius:15px;
+    font-style: oblique;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif; 
+    border-bottom-right-radius: 40% ;
+    border-top-left-radius: 40%;
+    border: 2px solid whitesmoke;   
+}
